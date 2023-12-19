@@ -2,7 +2,7 @@
 - Repository to host all [stacksimplify](https://stacksimplify.com) Helm Charts 
 
 ## Helm Charts GitHub Repository
-- [Helm Charts GitHub Repository](https://github.com/stacksimplify/helm-charts)
+- [Helm Charts GitHub Repository](https://github.com/mahroofpk/helm-charts)
 
 ## Docker Images used on Helm Charts
 - [StackSimplify Docker Images](https://github.com/stacksimplify?tab=packages)
